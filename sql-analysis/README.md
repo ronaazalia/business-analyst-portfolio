@@ -32,5 +32,4 @@ My SQL work typically follows this flow:
 
 - The database schema and sample data are designed for portfolio purposes  
 - Table and column names are kept close to real-world ERP structures  
-- The focus is on clarity, accuracy, and business relevance rather than optimization
 
