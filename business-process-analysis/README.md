@@ -49,7 +49,7 @@ across different roles and functions.
 ---
 
 ## Notes
-- All data and scenarios does not reflect any real company
+- All data and scenarios do not reflect any real company
 - The diagrams reflect personal analysis and interpretation
   of realistic operational workflows
 - Created solely for portfolio demonstration purposes
